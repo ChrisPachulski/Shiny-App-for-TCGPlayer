@@ -1,0 +1,14 @@
+default:
+    host: 'bespin.skhah3a.mongodb.net'
+    username: 'wolfoftinstreet'
+    password: 'brodeur.95'
+    database: 'tolarian_academy'
+    collection: 'user_base_dev'
+
+production:
+    host: 'bespin.skhah3a.mongodb.net'
+    username: 'wolfoftinstreet'
+    password: 'brodeur.95'
+    database: 'tolarian_academy'
+    collection: 'user_base'
+
